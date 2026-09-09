@@ -6,6 +6,6 @@
                 {:url "https://github.com/ianthehenry/judge.git" :tag "v2.11.0"}]
   :version "0.0.0")
 
-(declare-source
-  :prefix "dasein-janet"
-  :source ["dasein-janet/init.janet"])
+(declare-executable
+  :name "de-logseqify-markdown"
+  :entry "dasein-janet/init.janet")
