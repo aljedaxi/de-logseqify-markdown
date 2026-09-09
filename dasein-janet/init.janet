@@ -1,5 +1,4 @@
 (import spork/argparse)
-(use spork/sh-dsl)
 (use spork/htmlgen)
 (import remarkable)
 
