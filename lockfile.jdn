@@ -1,0 +1,4 @@
+@[{:url "https://github.com/ianthehenry/cmd" :tag "b4308de361d0f90dd96cc0f9a8dc6881e0e851c6" :type :git}
+  {:url "https://github.com/ianthehenry/judge.git" :tag "03b61228e736ed1c1b9d01c9414e7178ad0bf240" :type :git}
+  {:url "https://github.com/janet-lang/spork" :tag "0667f96b74de52747ffe5e19e185563ebf53816b" :type :git}
+  {:url "https://github.com/pyrmont/remarkable" :tag "e3bbf2f5e18c1b3ed33ccf7872b6719351334424" :type :git}]
